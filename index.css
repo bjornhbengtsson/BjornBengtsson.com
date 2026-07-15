@@ -1,10 +1,8 @@
 body {
-     margin: 0;
-  padding: 0;
-   overflow-x: hidden;
-   top: 0;
-    left: 0;
-    font-family: 'Times New Roman', Times, serif
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h1 {
@@ -13,11 +11,9 @@ h1 {
 
 #CENTERPAGE {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-
-    height: 100%;
+    margin: 0 auto;
     width: 100%;
+    height: auto;
 }
 
 #gallery {
@@ -28,18 +24,45 @@ h1 {
 
 .GALLERYITEM {
     text-align: center;
+    margin-bottom: 75px;
+    padding: 0 12px;
+    box-sizing: border-box;
 }
+
 .GALLERYITEM img {
-    height: 650px;
+    width: 100%;
+    max-width: 900px;   /* Prevents huge images on large screens */
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }
 
 .GALLERYITEM h2 {
     margin-top: 5px;
 }
+
 .GALLERYITEM h3 {
     margin-top: -20px;
 }
 
-.GALLERYITEM {
-    margin-bottom: 75px;
+/* Mobile adjustments */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2rem;
+        padding: 0 10px;
+    }
+
+    .GALLERYITEM {
+        margin-bottom: 50px;
+    }
+
+    .GALLERYITEM img {
+        width: 100vw;
+        max-width: 100%;
+    }
+
+    .GALLERYITEM h2,
+    .GALLERYITEM h3 {
+        padding: 0 12px;
+    }
 }
