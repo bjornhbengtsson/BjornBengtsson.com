@@ -53,7 +53,7 @@ python -m http.server 8000
 
 Then open `http://localhost:8000` in a browser.
 
-Press `Ctrl+C` in Git Bash to stop the server.
+Press `Ctrl+C` to stop the server.
 
 ## Adding New Artwork
 
