@@ -64,12 +64,12 @@ Press `Ctrl+C` to stop the server.
 
 The filename in `data.js` must exactly match the image filename.
 
-## Author
+## Authors and Contributors
 
 **Bjorn Bengtsson**
 
-- [GitHub](https://github.com/bjornhbengtsson)
-- [LinkedIn](https://www.linkedin.com/in/bjorn-bengtsson-love/)
+Bjorn Bengtsson — repository owner, artist, website design, artwork content, and project maintenance
+lyhottag13 — gallery-generation JavaScript and CSS contributions
 
 ## Artwork Copyright
 
