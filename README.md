@@ -66,10 +66,10 @@ The filename in `data.js` must exactly match the image filename.
 
 ## Authors and Contributors
 
-**Bjorn Bengtsson**
 
-Bjorn Bengtsson — repository owner, artist, website design, artwork content, and project maintenance
-lyhottag13 — gallery-generation JavaScript and CSS contributions
+[Bjorn Bengtsson](https://github.com/bjornhbengtsson) — repository owner, artist, website design, artwork content, and project maintenance.
+
+[Leonardo Hotta-Guzman](https://github.com/lyhottag13) — JavaScript and CSS contributions
 
 ## Artwork Copyright
 
