@@ -2,8 +2,6 @@
 
 A responsive online gallery showcasing original paintings by Bjorn Bengtsson.
 
-The website is built with HTML, CSS, and vanilla JavaScript and is hosted through GitHub Pages.
-
 ## Live Website
 
 [View the live art gallery](https://bjornhbengtsson.github.io/BjornBengtsson.com/)
@@ -12,13 +10,13 @@ The website is built with HTML, CSS, and vanilla JavaScript and is hosted throug
 
 This repository contains the source code and artwork information for my personal online art gallery.
 
-The gallery includes original paintings with details such as:
+Gallery entries may include:
 
 - Artwork title
-- Medium
-- Dimensions
+- Medium and dimensions
 - Year completed
-- Related Bible passage or Psalm
+- Location or description
+- A related Bible verse or Psalm
 
 Artwork information is stored in `data.js` and dynamically displayed by `index.js`.
 
@@ -26,7 +24,7 @@ Artwork information is stored in `data.js` and dynamically displayed by `index.j
 
 - HTML5
 - CSS3
-- JavaScript ES Modules
+- Vanilla JavaScript
 - GitHub Pages
 
 No frameworks, package managers, or build tools are required.
@@ -36,39 +34,45 @@ No frameworks, package managers, or build tools are required.
 ```text
 BjornBengtsson.com/
 ├── GALLERY_IMAGES/    # Artwork images
-├── CENTERPAGE.jpeg    # Main gallery banner image
-├── data.js            # Artwork filenames and descriptions
+├── CENTERPAGE.jpeg    # Main featured image
+├── data.js            # Artwork information
 ├── index.css          # Website styling
 ├── index.html         # Main webpage
 ├── index.js           # Gallery rendering logic
 ├── .gitignore         # Files excluded from Git
 └── README.md          # Project documentation
+```
 
+## Running Locally
 
-## Step 2: Add a `.gitignore`
+Run a local server from the repository folder:
 
 ```bash
-cat > .gitignore <<'EOF'
-# Windows
-Thumbs.db
-desktop.ini
+python -m http.server 8000
+```
 
-# macOS
-.DS_Store
+Then open `http://localhost:8000` in a browser.
 
-# Editors
-.vscode/
-.idea/
-*.swp
-*.swo
+Press `Ctrl+C` in Git Bash to stop the server.
 
-# Temporary and backup files
-*.tmp
-*.temp
-*.bak
-*~
+## Adding New Artwork
 
-# Local environment files
-.env
-.env.*
-node_modules/
+1. Add the artwork image to `GALLERY_IMAGES`.
+2. Add a matching entry to `data.js`.
+3. Test the website locally.
+4. Commit and push the changes.
+
+The filename in `data.js` must exactly match the image filename.
+
+## Author
+
+**Bjorn Bengtsson**
+
+- [GitHub](https://github.com/bjornhbengtsson)
+- [LinkedIn](https://www.linkedin.com/in/bjorn-bengtsson-love/)
+
+## Artwork Copyright
+
+Copyright © 2026 Bjorn Bengtsson. All rights reserved.
+
+Unless otherwise stated, all artwork and artwork photography in this repository are copyrighted by Bjorn Bengtsson. The artwork may not be copied, reproduced, modified, distributed, or used commercially without prior written permission.

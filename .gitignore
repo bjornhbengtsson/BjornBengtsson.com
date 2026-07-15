@@ -11,7 +11,7 @@ desktop.ini
 *.swp
 *.swo
 
-# Temporary files
+# Temporary and backup files
 *.tmp
 *.temp
 *.bak
