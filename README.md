@@ -76,3 +76,9 @@ lyhottag13 — gallery-generation JavaScript and CSS contributions
 Copyright © 2026 Bjorn Bengtsson. All rights reserved.
 
 Unless otherwise stated, all artwork and artwork photography in this repository are copyrighted by Bjorn Bengtsson. The artwork may not be copied, reproduced, modified, distributed, or used commercially without prior written permission.
+
+
+## Authors and Contributors
+
+- [Bjorn Bengtsson](https://github.com/bjornhbengtsson) — Artist, website owner, and content creator
+- [lyhottag13](https://github.com/lyhottag13) — Contributor and website code development
