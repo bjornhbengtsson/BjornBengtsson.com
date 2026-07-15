@@ -18,5 +18,6 @@ export const data = [
     ["The Burning Bush.jpeg", "Oil on Canvas. 36x48 in. 2025.", "Exodus 3"],
     ["The Lamb Who Was Slain.jpeg", "Oil on Canvas. 16x20 in. 2025.", "Revelation 5"],
     ["Jesus.jpg", "Oil paint on Canvas. 20x20 in. 2024."],
+    ["Jesus' Crucifixion.jpeg", "Oil paint on Canvas. 24x60 in. 2026."],    
     ["David.jpeg", "Oil Paint on Canvas. 24x30 in. 2024."],
 ];
