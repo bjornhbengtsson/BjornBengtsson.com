@@ -67,18 +67,12 @@ The filename in `data.js` must exactly match the image filename.
 ## Authors and Contributors
 
 
-[Bjorn Bengtsson](https://github.com/bjornhbengtsson) — repository owner, artist, website design, artwork content, and project maintenance.
+[Bjorn Bengtsson](https://github.com/bjornhbengtsson) — Artist, repository owner, website design, website owner, artwork content, and project management.
 
-[Leonardo Hotta-Guzman](https://github.com/lyhottag13) — JavaScript and CSS contributions
+[Leonardo Hotta-Guzman](https://github.com/lyhottag13) — JavaScript and CSS contributions for website code development.
 
 ## Artwork Copyright
 
 Copyright © 2026 Bjorn Bengtsson. All rights reserved.
 
 Unless otherwise stated, all artwork and artwork photography in this repository are copyrighted by Bjorn Bengtsson. The artwork may not be copied, reproduced, modified, distributed, or used commercially without prior written permission.
-
-
-## Authors and Contributors
-
-- [Bjorn Bengtsson](https://github.com/bjornhbengtsson) — Artist, website owner, and content creator
-- [lyhottag13](https://github.com/lyhottag13) — Contributor and website code development
