@@ -4,6 +4,7 @@ body {
    overflow-x: hidden;
    top: 0;
     left: 0;
+    font-family: 'Times New Roman', Times, serif
 }
 
 h1 {
@@ -28,7 +29,17 @@ h1 {
 .GALLERYITEM {
     text-align: center;
 }
-#psalm_23 {
+.GALLERYITEM img {
     height: 650px;
+}
 
+.GALLERYITEM h2 {
+    margin-top: 5px;
+}
+.GALLERYITEM h3 {
+    margin-top: -20px;
+}
+
+.GALLERYITEM {
+    margin-bottom: 75px;
 }
