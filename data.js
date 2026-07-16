@@ -6,6 +6,7 @@ export const data = [
     ["Lead me to the Rock that is Higher than I.jpeg", "Oil on Canvas. 36x60 in. 2025.", "Psalm 61"],
     ["Be Still and Know I am God.jpeg", "Oil on Canvas. 24x30 in. 2025.", "Psalm 46"],
     ["The entrance of your word gives light.jpeg", "Oil paint on Canvas. 30x40 in. 2026.", "Psalm 119"],
+    ["Your righteousness is like the great mountains O LORD.jpeg", "Oil Paint on Canvas. 48x60 in. 2026."],
     ["My help comes from the Lord, which made heaven and earth.jpeg", "Oil paint on Canvas. 30x40 in. 2026.", "Psalm 121"],
     ["Hind's feet on high places.jpeg", "Oil paint on Canvas. 30x40 in. 2026.", "Psalm 18"],
     ["He utters a word and the earth melts.jpeg", "Oil on Canvas Panel. 8x10 in. 2025.", "Psalm 46"],
@@ -17,7 +18,7 @@ export const data = [
     ["Moses at the Red Sea.jpeg", "Oil on Canvas. 48x54 in. 2025.", "Exodus 14"],
     ["The Burning Bush.jpeg", "Oil on Canvas. 36x48 in. 2025.", "Exodus 3"],
     ["The Lamb Who Was Slain.jpeg", "Oil on Canvas. 16x20 in. 2025.", "Revelation 5"],
-    ["Jesus.jpg", "Oil paint on Canvas. 20x20 in. 2024."],
     ["Jesus' Crucifixion.jpeg", "Oil paint on Canvas. 24x60 in. 2026."],    
+    ["Jesus.jpg", "Oil paint on Canvas. 20x20 in. 2024."],
     ["David.jpeg", "Oil Paint on Canvas. 24x30 in. 2024."],
 ];
