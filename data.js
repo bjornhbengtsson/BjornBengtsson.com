@@ -5,7 +5,7 @@ export const data = [
     ["There is a river whose streams shall make glad the city of God, The holy place of the tabernacle of the Most High.jpeg", "Oil on Canvas. 30x48 in. 2025.", "Psalm 46"],
     ["Lead me to the Rock that is Higher than I.jpeg", "Oil on Canvas. 36x60 in. 2025.", "Psalm 61"],
     ["Be Still and Know I am God.jpeg", "Oil on Canvas. 24x30 in. 2025.", "Psalm 46"],
-    ["The entrance of your word gives light.jpeg", "Oil paint on Canvas. 30x40 in. 2026.", "Psalm 119"],
+    ["The entrance of Your word gives light.jpeg", "Oil paint on Canvas. 30x40 in. 2026.", "Psalm 119"],
     ["Your righteousness is like the great mountains O LORD.jpeg", "Oil Paint on Canvas. 48x60 in. 2026.", "Psalm 36"],
     ["My help comes from the Lord, which made heaven and earth.jpeg", "Oil paint on Canvas. 30x40 in. 2026.", "Psalm 121"],
     ["Hind's feet on high places.jpeg", "Oil paint on Canvas. 30x40 in. 2026.", "Psalm 18"],
